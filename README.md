@@ -57,3 +57,5 @@ For any queries feel free to mail me at, windowsaddict@protonmail.com
 
 
 Made with Love ❤️
+
+smlgr.vbs -xpr
